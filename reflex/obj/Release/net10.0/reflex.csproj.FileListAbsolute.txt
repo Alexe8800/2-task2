@@ -1,0 +1,14 @@
+C:\Users\hyesos\Desktop\2 task\reflex\bin\Release\net10.0\reflex.exe
+C:\Users\hyesos\Desktop\2 task\reflex\bin\Release\net10.0\reflex.deps.json
+C:\Users\hyesos\Desktop\2 task\reflex\bin\Release\net10.0\reflex.runtimeconfig.json
+C:\Users\hyesos\Desktop\2 task\reflex\bin\Release\net10.0\reflex.dll
+C:\Users\hyesos\Desktop\2 task\reflex\bin\Release\net10.0\reflex.pdb
+C:\Users\hyesos\Desktop\2 task\reflex\obj\Release\net10.0\reflex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hyesos\Desktop\2 task\reflex\obj\Release\net10.0\reflex.AssemblyInfoInputs.cache
+C:\Users\hyesos\Desktop\2 task\reflex\obj\Release\net10.0\reflex.AssemblyInfo.cs
+C:\Users\hyesos\Desktop\2 task\reflex\obj\Release\net10.0\reflex.csproj.CoreCompileInputs.cache
+C:\Users\hyesos\Desktop\2 task\reflex\obj\Release\net10.0\reflex.dll
+C:\Users\hyesos\Desktop\2 task\reflex\obj\Release\net10.0\refint\reflex.dll
+C:\Users\hyesos\Desktop\2 task\reflex\obj\Release\net10.0\reflex.pdb
+C:\Users\hyesos\Desktop\2 task\reflex\obj\Release\net10.0\reflex.genruntimeconfig.cache
+C:\Users\hyesos\Desktop\2 task\reflex\obj\Release\net10.0\ref\reflex.dll
